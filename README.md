@@ -33,5 +33,6 @@
         </div>
     </div>
 </center>
+![Roku's GitHub stats](https://github-readme-stats.vercel.app/api?username=roku14&show_icons=true&theme=discord_old_blurple)
     <p/>
 </head>
